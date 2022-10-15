@@ -4,7 +4,7 @@ heroImage: /hero.png
 heroText: 学习笔记
 tagline: 涵盖计算机、机械、电气多个领域
 actionText: 快速复习 →
-actionLink: /zh/guide/
+actionLink: /pages/folder4/Markdown.md
 features:
 - title: 简洁至上
   details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
