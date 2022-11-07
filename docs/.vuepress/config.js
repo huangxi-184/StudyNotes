@@ -12,7 +12,7 @@ module.exports = {
         text: "黄曦笔记", //默认显示
         ariaLabel: "黄曦笔记", //用于识别的label
         items: [
-          { text: "网络", link: "/pages/folder1/computerNetwork.md" },
+          { text: "计算机网络", link: "/pages/folder1/computerNetwork.md" },
           { text: "三剑客", link: "/pages/folder2/less.md" },
           { text: "微信小程序", link: "/pages/folder3/mini_process.md" },
           { text: "Markdown", link: "/pages/folder4/Markdown.md" },
@@ -22,16 +22,6 @@ module.exports = {
           { text: "Vue", link: "/pages/folder7/vue-element-admin01.md" },
           { text: "其他", link: "/pages/others/User.md" },
         ],
-      },
-      {
-        text: "王文卓笔记", //默认显示
-        ariaLabel: "王文卓笔记", //用于识别的label
-        items: [{ text: "电气", link: "/pages/wangwenzhuo/note1.md" }],
-      },
-      {
-        text: "邢鑫亮笔记", //默认显示
-        ariaLabel: "邢鑫亮笔记", //用于识别的label
-        items: [{ text: "机械", link: "/pages/liang/liang.md" }],
       },
       //格式三：跳转至外部网页，需http/https前缀
       { text: "Github", link: "https://github.com/huangxi-184" },
