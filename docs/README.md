@@ -2,15 +2,15 @@
 home: true
 heroImage: /hero.png
 heroText: 计算机学习笔记
-tagline: 涵盖Web前端|后端|WebGL|计算机网络|数据结构
+tagline: 涵盖前端|后端|WebGL|计算机网络|数据结构
 actionText: 快速复习 →
-actionLink: /pages/folder7/组件通信方式.md
+actionLink: /pages/tofflon/git.md
 features:
-  - title: Web前端
-    details:
-  - title: WebGL
-    details:
-  - title: 计算机网络
-    details:
+  - title: 前端
+    details: vue react uniapp
+  - title: 后端
+    details: C# .net java spring
+  - title: 运维
+    details: docker shell
 footer: Good Good Study,Day Day Up!
 ---
